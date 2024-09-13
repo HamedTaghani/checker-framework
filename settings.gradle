@@ -20,3 +20,4 @@ includeBuild ('../annotation-tools/annotation-file-utilities') {
     }
   }
 }
+
